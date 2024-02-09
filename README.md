@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Me+chamo+Jo%C3%A3o+Thiago" alt="Typing SVG" style="display: inline-block;" />
     </a>
