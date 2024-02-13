@@ -2,7 +2,7 @@
 
    - 📒 Estudante de Ciência da Computação no IFSP
    - 🖥️ Me dedicando à programação web
-   - 📚 Atualmente estou estudando ReactJS, TypeScript e Node
+   - 📚 Atualmente estou estudando React.js, TypeScript e Node.js
 
 ## Principais tecnologias:
 
